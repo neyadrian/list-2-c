@@ -10,7 +10,7 @@ int main(){
 
     idade = year - anoNasc;
 
-    printf("Voce tem: %i anos.\n", idade);
+    printf("Você tem: %i anos.\n", idade);
 
     return 0;
 }
